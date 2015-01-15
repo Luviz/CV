@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.10)  18 DEC 2014 09:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.10)  15 JAN 2015 12:29
 entering extended mode
 **bardiajedi_cv.tex
-(C:\Users\Bardia\Miroi\data\togen\cv\bardiajedi_cv.tex
+(C:\Users\Bardia\cv\toGen\cv\bardiajedi_cv.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -421,7 +421,7 @@ Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
 \TX@cols=\count104
 \TX@ftn=\toks25
 )
-(C:\Users\Bardia\Miroi\data\togen\cv\bardiajedi_cv.aux)
+(C:\Users\Bardia\cv\toGen\cv\bardiajedi_cv.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
@@ -505,22 +505,21 @@ LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ua1/b/n' tried instead on input line 68.
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Bardia/Miroi/dat
-a/togen/cv/pimg01.jpg>]
-(C:\Users\Bardia\Miroi\data\togen\cv\bardiajedi_cv.aux) ) 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Bardia/cv/toGen/
+cv/pimg01.jpg>] (C:\Users\Bardia\cv\toGen\cv\bardiajedi_cv.aux) ) 
 Here is how much of TeX's memory you used:
  3339 strings out of 493921
- 40777 string characters out of 3144873
+ 40721 string characters out of 3144873
  102130 words of memory out of 3000000
  6577 multiletter control sequences out of 15000+200000
  41709 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,12n,43p,283b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86
-)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/urw/arial/ua1b8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/urw/arial/ua1r8a.pfb>
-Output written on bardiajedi_cv.pdf (1 page, 74916 bytes).
+ 27i,12n,43p,230b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/urw/arial/ua1b8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/urw/arial/ua1r8a.pfb>
+Output written on bardiajedi_cv.pdf (1 page, 75010 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
